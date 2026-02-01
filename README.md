@@ -103,6 +103,3 @@ If you like this project, feel free to ⭐ the repo.
 ## ⭐ Show Your Support
 
 Give a ⭐ if you like this project and find it helpful!
-```
-
----
